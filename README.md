@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishore</h1>
 <h3 align="center">Web developer</h3>
 
-- 🔭 I’m currently working on **E-commerce website**
-
-- 🌱 I’m currently learning **Django,React**
-
-- 💬 Ask me about **Python,Django**
+- 💬 Ask me about **Python,Solidity,Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
