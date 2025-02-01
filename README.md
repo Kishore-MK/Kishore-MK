@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kishore</h1>
 <h3 align="center">Web developer</h3>
 
-- 💬 Ask me about **Python,Solidity,Javascript**
+- 💬 Ask me about **LLMs and Web3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayitskixxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayitskixxo" height="30" width="40" /></a>
+<a href="https://twitter.com/0xkeyaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xkeyaru" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/kishore-murugesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/kishore-murugesan" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/kixxo.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/kixxo.io" height="30" width="40" /></a>
 </p>
