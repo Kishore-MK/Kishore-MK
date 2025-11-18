@@ -1,19 +1,93 @@
-<h1 align="center">Hi 👋, I'm Kishore</h1>
-<h3 align="center">Web developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kishore%20Murugesan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&descSize=16&descAlignY=51" width="100%"/>
+</div>
 
-- 💬 Ask me about **LLMs and Web3**
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+the+future+with+Web3+%26+AI;Open+for+hackathon+collaborations;Turning+ideas+into+reality)](https://git.io/typing-svg)
+  
+  <img src="https://komarev.com/ghpvc/?username=Kishore-MK&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  
+  [![Twitter Follow](https://img.shields.io/twitter/follow/0xkeyaru?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1c1917)](https://twitter.com/0xkeyaru)
+  
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xkeyaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xkeyaru" height="30" width="40" /></a>
-<a href="http://www.linkedin.com/in/kishore-murugesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/kishore-murugesan" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/kixxo.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/kixxo.io" height="30" width="40" /></a>
+---
+
+
+**Ask me about:** Web3, AI/LLM Integration, Full-stack Development  
+**Looking to collaborate on:** Hackathons, Open Source Projects, Cool Ideas
+
+---
+
+### I work with
+
+<div align="center">
+
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+#### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,flask,rust" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kishore7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kishore7" /></a></p><br><br>
+#### AI/ML & Web3
+<p>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="langchain"/>
+  <img src="https://cdn.simpleicons.org/ollama/000000" width="48" height="48" alt="ollama"/>
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="streamlit"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow"/>
+</p>
 
-<!--https://rahuldkjain.github.io/gh-profile-readme-generator/-->
+#### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,nginx,linux,postman,photoshop" />
+</p>
+
+#### Other
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql" />
+</p>
+
+</div>
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishore-MK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-MK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-MK&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kishore-MK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+### Find Me Here
+
+<div align="center">
+  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-murugesan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xkeyaru)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3DR4533?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kishoremurugesan.xyz)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
