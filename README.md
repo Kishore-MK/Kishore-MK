@@ -44,7 +44,5 @@ Open to hackathon collaborations and cool ideas
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishore-MK&show_icons=true&theme=default&hide_border=true" />
-
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-MK&layout=compact&theme=default&hide_border=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishore-MK&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-MK&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
