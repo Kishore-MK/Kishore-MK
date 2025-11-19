@@ -1,75 +1,50 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kishore%20Murugesan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&descSize=16&descAlignY=51" width="100%"/>
-</div>
+## Hi, I'm Kishore Murugesan
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+the+future+with+Web3+%26+AI;Open+for+hackathon+collaborations;Turning+ideas+into+reality)](https://git.io/typing-svg)
-  
-  <img src="https://komarev.com/ghpvc/?username=Kishore-MK&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  
-  [![Twitter Follow](https://img.shields.io/twitter/follow/0xkeyaru?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1c1917)](https://twitter.com/0xkeyaru)
-  
-</div>
+Building with Web3 & AI
+
+[![Portfolio](https://img.shields.io/badge/kishoremurugesan.xyz-gray?style=flat&logo=google-chrome)](https://kishoremurugesan.xyz)
+[![LinkedIn](https://img.shields.io/badge/kishore--murugesan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kishore-murugesan)
+[![Twitter](https://img.shields.io/badge/@0xkeyaru-black?style=flat&logo=x)](https://twitter.com/0xkeyaru)
 
 ---
 
+### What I Do
 
-**Ask me about:** Web3, AI/LLM Integration, Full-stack Development  
-**Looking to collaborate on:** Hackathons, Open Source Projects, Cool Ideas
+Ask me about Web3 architecture, LLM integration, and full-stack development  
+Open to hackathon collaborations and cool ideas
 
----
+### Tech Stack
 
-### I work with
+**Frontend**  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-<div align="center">
+**Backend & Data**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-#### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
-</p>
-
-#### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,flask,rust" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite" />
-</p>
-
-#### AI/ML & Web3
-<p>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="langchain"/>
-  <img src="https://cdn.simpleicons.org/ollama/000000" width="48" height="48" alt="ollama"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="streamlit"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow"/>
-</p>
-
-#### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,nginx,linux,postman,photoshop" />
-</p>
-
-#### Other
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql" />
-</p>
-
-</div>
----
-
-### Find Me Here
-
-<div align="center">
-  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-murugesan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xkeyaru)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3DR4533?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kishoremurugesan.xyz)
-
-</div>
+**AI & Tools**  
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishore-MK&show_icons=true&theme=default&hide_border=true" />
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-MK&layout=compact&theme=default&hide_border=true" />
