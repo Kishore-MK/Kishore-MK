@@ -4,7 +4,7 @@ Building with Web3 & AI
 
 [![Portfolio](https://img.shields.io/badge/kishoremurugesan.xyz-gray?style=flat&logo=google-chrome)](https://kishoremurugesan.xyz)
 [![LinkedIn](https://img.shields.io/badge/kishore--murugesan-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kishore-murugesan)
-[![Twitter](https://img.shields.io/badge/@0xkeyaru-black?style=flat&logo=x)](https://twitter.com/0xkira42)
+[![Twitter](https://img.shields.io/badge/@0xkira42-black?style=flat&logo=x)](https://twitter.com/0xkira42)
 
 ---
 
